@@ -1,0 +1,20 @@
+body{
+  /* background: gray; */
+  /* We can also apply image as background */
+  background: url(https://ichef.bbci.co.uk/images/ic/960x540/p0559j1p.jpg);
+  /* Whether we want to repeat the background image or not. */
+  background-repeat:no-repeat;
+  }
+
+div {
+
+  background: blue;
+  border-color: red;
+  border-width: 2px;
+  border-style:double;
+
+}
+
+span{
+  color: white;
+}
