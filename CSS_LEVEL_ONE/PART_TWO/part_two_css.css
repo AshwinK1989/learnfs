@@ -6,14 +6,7 @@ body{
   background-repeat:no-repeat;
   }
 
-div {
 
-  background: blue;
-  border-color: red;
-  border-width: 2px;
-  border-style:double;
-
-}
 
 span{
   color: white;
