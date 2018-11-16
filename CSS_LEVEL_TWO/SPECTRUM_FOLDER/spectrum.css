@@ -1,0 +1,36 @@
+h3 {
+  text-align: center;
+  font-family: 'Federant', cursive;
+}
+
+table {
+  margin: auto;
+}
+
+th {
+  border-right: 6px white solid;
+  width: 120px;
+  height: 240px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+#first {
+  background-color: #247BA0;
+}
+
+#second {
+  background-color: #70C1B3;
+}
+
+#third {
+  background-color: #B2DBBF;
+}
+
+#fourth {
+  background-color: #F3FFBD;
+}
+
+#fifth {
+  background-color: #FF1654;
+}
