@@ -1,0 +1,11 @@
+#top{
+  border: 2px red dotted;
+  text-align:center;
+  width:20%;
+  padding: 30px;
+}
+
+#bottom{
+ /* top right botton left (space between other html elements) */
+  margin:100px 20px;
+}
