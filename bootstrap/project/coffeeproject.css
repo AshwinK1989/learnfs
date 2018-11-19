@@ -1,0 +1,16 @@
+.intro {
+
+  font-family: "Arial";
+  font-size:1.2em;
+}
+
+.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+
+  > .col,
+  > [class*="col-"] {
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
