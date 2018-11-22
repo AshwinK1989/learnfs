@@ -8,10 +8,8 @@ function getRandomColor() {
   return color;
 }
 
-
-
 function changeColor() {
-var elemental = document.getElementById("pickme")
+var elemental = document.getElementById('pickme')
 elemental.style.color = getRandomColor()
 }
 
